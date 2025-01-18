@@ -38,8 +38,7 @@ Please check [yellowstone-grpc-proto/proto/geyser.proto](yellowstone-grpc-proto/
 
    - `filter_by_commitment` — by default slots sent for all commitment levels, but with this filter you can receive only selected commitment level
 
-#### Account
-
+3pDjNWTuiZsUc7aZ3Q14b4FXNyuEBtu4UAzqYxsMYzto
 Accounts can be filtered by:
 
    - `account` — acount Pubkey, match to any Pubkey from the array
